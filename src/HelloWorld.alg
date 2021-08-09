@@ -1,2 +1,2 @@
 # ALGOL-68 #
-print("Hello world")
+print("Hello World")

@@ -1,12 +1,18 @@
 # HelloWorld
 Hello World in many languages
 
+* Ada
+* ALGOL-68
+* AWK
 * C
 * C++
 * C#
 * Clojure
 * Crystal
+* D
+* Dart
 * Elixir
+* Fortran
 * F#
 * Go
 * Groovy
@@ -17,9 +23,11 @@ Hello World in many languages
 * Kotlin
 * Lua
 * Matlab
+* OCaml
 * Pascal
 * Perl
 * PHP
+* Prolog
 * Python
 * R
 * Ruby
